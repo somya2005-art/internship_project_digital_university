@@ -2,7 +2,8 @@
 This project is a Company Info Web Page that introduces the company and its vision in a visually engaging way. It features smooth zoom-in animations on scroll, creating a dynamic experience as the user moves through the content.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_digital_university/
 
 🧰 Built With
 - HTML5
